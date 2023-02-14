@@ -1,2 +1,2 @@
-# Herculean-Foundation-project
-Herculean Foundation website project.
+# Herculean-Foundation-projects
+Herculean Foundation website projects.
